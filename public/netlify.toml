@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/shop"
+  to = "https://avetti-subsite.netlify.app/:splat"
+  status = 200
+  force = false
+  
