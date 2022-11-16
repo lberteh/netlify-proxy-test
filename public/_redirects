@@ -1,2 +1,3 @@
 /shop https://avetti-subsite.netlify.app 200
 /shop/* https://avetti-subsite.netlify.app/:splat 200
+/wp https://b2bwp-demo1.avetti.ca 200
