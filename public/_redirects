@@ -1,6 +1,6 @@
 /shop https://avetti-subsite.netlify.app 200
 /shop/* https://avetti-subsite.netlify.app/:splat 200
-/wp https://b2bwp-demo1.avetti.ca/ 200
+/ https://b2bwp-demo1.avetti.ca/ 200
 /wp-content/* https://b2bwp-demo1.avetti.ca/wp-content/:splat 200
 /wp-includes/* https://b2bwp-demo1.avetti.ca/wp-includes/:splat 200
-/ https://remix-five-gamma.vercel.app/ 200
+/vercel https://remix-five-gamma.vercel.app/ 200
